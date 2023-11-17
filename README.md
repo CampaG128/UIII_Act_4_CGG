@@ -17,3 +17,6 @@ Relacionar tablas
 ![](https://github.com/CampaG128/UIII_Act_4_cgg/blob/main/img/c14.PNG)
 ![](https://github.com/CampaG128/UIII_Act_4_cgg/blob/main/img/c15.PNG)
 ![](https://github.com/CampaG128/UIII_Act_4_cgg/blob/main/img/c16.PNG)
+![](https://github.com/CampaG128/UIII_Act_4_cgg/blob/main/img/c17.PNG)
+![](https://github.com/CampaG128/UIII_Act_4_cgg/blob/main/img/c18.PNG)
+![](https://github.com/CampaG128/UIII_Act_4_cgg/blob/main/img/c19.PNG)
